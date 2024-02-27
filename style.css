@@ -1,0 +1,19 @@
+/* style.css */
+
+.title {
+    color: rgb(131, 13, 13);
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.ul-list, .ol-list {
+    color: rgb(22, 22, 22);
+    font-style: italic;
+}
+
+.highlight {
+    background-color: rgb(226, 184, 184);
+}
+
+
